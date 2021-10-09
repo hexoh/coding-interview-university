@@ -44,6 +44,43 @@
 
 </details>
 
+<div align="center">
+	<hr />
+    <p>
+        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
+    </p>
+    <p>
+        <strong>Special thanks to:</strong>
+    </p>
+    <p>
+        <a href="https://oss.capital/">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
+            </div>
+            <div>
+                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
+            </div>
+        </a>
+    </p>
+    <br />
+    <p>
+        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
+            </div>
+            <div>
+                <p>
+                    <strong>Dev environments built for the cloud</strong>
+                </p>
+            </div>
+            <div>
+                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
+            </div>
+        </a>
+    </p>
+    <hr />
+</div>
+
 ## ما هذا؟
 هي خطتي متعددة الأشهر للوصول من مطور ويب (تعليم ذاتي، بدون درجة علمية في علوم الحاسب) لمنصب مهندس برمجيات لشركة عملاقة
 
@@ -60,17 +97,17 @@
 
 ## الفهرس
 
-- [كيفية استخدامها](#how-to-use-it)
-- [لماذا استخدمه؟](#why-use-it)
-- [كيفية استخدامها](#how-to-use-it)
-- [عن مصادر مقاطع الفديو](#about-video-resources)
-- [مراحل المقابلة الشخصية & الإستعداد العام للمقابلة](#interview-process--general-interview-prep)
-- [اختر لغة برمجية واحدة للمقابلة البرمجية](#pick-one-language-for-the-interview)
-- [لائحة الكتب](#book-list)
-- [قبل أن تبدأ](#before-you-get-started)
-- [ما لن تجده هنا](#what-you-wont-see-covered)
-- [الخطة اليومية](#the-daily-plan)
-- [معرفة مسبقة](#prerequisite-knowledge)
+- [ما هذا؟](#ما-هذا؟)
+- [لماذا استخدمه؟](#لماذا-استخدمه؟)
+- [كيفية استخدامها](#كيفية-استخدامها)
+- [عن مصادر مقاطع الفديو](#عن-مصادر-مقاطع-الفديو)
+- [مراحل المقابلة الشخصية & الإستعداد العام للمقابلة](#مراحل-المقابلة-الشخصية-و-الإستعداد-العام-للمقابلة)
+- [اختر لغة برمجية واحدة للمقابلة البرمجية](#اختر-لغة-برمجية-واحدة-للمقابلة-البرمجية)
+- [لائحة الكتب](#لائحة-الكتب)
+- [قبل البدء](#قبل-البدء)
+- [ما لن تجده هنا](#ما-لن-تجده-هنا)
+- [الخطة اليومية](#الخطة-اليومية)
+- [معرفة مسبقة](#المعرفة-المسبقة)
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
     - [Arrays](#arrays)
@@ -229,7 +266,7 @@
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 
-## عن مصادر الفديو
+## عن مصادر مقاطع الفديو
 
 بعض الفديوهات متاحة فقط عن طريق الاشتراك في كورسيرا "Coursera"، إيدكس "Edx" أو ليندا "Lynda.com". يطلق عليهم موكس"MOOCS".
 بعض الأحيان الدروس ليست متاحة في كل الأوقات لذلك عليك الانتظار عدة أشهر حتى تكون متاحة للالتحاق بها. دروس ليندا "Lynda" ليست مجانية.
@@ -239,7 +276,7 @@
     أفضل استخدام مصادر الجامعات.
 
 
-## مراحل المقابلة الشخصية & الإستعداد العام للمقابلة
+## مراحل المقابلة الشخصية و الإستعداد العام للمقابلة
 
 - [ ] [How to Pass the Engineering Interview in 2021](https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1)
 - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
@@ -293,7 +330,7 @@
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
-## قائمة الكتب
+## لائحة الكتب
 
 هذه قائمة من العناصر التي استحدمتها. تم اختصارها للمحافظة على الكتب.
 
@@ -403,7 +440,7 @@ It's user-friendly, available on all platforms and has a cloud sync system. It c
 
 My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya)).
 
-### 3. Start doing coding interview questions while you're learning data structures and algorithms
+### 3. ابدأ في إجراء أسئلة المقابلة بينما تتعلم هياكل البيانات والخوارزميات
 
 You need to apply what you're learning to solving problems, or you'll forget. I made this mistake. Once you've learned a topic,
 and feel comfortable with it, like linked lists, open one of the coding interview books and do a couple of questions regarding
@@ -412,18 +449,18 @@ or recursion problem, or whatever. But keep doing problems while you're learning
 but how you apply the knowledge. There are several books and sites I recommend.
 See here for more: [Coding Question Practice](#coding-question-practice).
 
-### 4. Review, review, review
+### 4. المراجعة ,المراجعة, المراجعة
 
 I keep a set of cheat sheets on ASCII, OSI stack, Big-O notations, and more. I study them when I have some spare time.
 
 Take a break from programming problems for a half hour and go through your flashcards.
 
-### 5. Focus
+### 5. ركز
 
 There are a lot of distractions that can take up valuable time. Focus and concentration are hard. Turn on some music
 without lyrics and you'll be able to focus pretty well.
 
-## What you won't see covered
+## ما لن تجده هنا
 
 These are prevalent technologies but not part of this study plan:
 
@@ -431,7 +468,7 @@ These are prevalent technologies but not part of this study plan:
 - Javascript
 - HTML, CSS, and other front-end technologies
 
-## The Daily Plan
+## الخطة اليومية
 
 Some subjects take one day, and some will take multiple days. Some are just learning with nothing to implement.
 
@@ -461,7 +498,7 @@ You don't need to memorize the guts of every algorithm.
 
 Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
 
-## Prerequisite Knowledge
+## المعرفة المسبقة
 
 - [ ] **Learn C**
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying
@@ -876,7 +913,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - When it is appropriate to use it?
     - How is tail recursion better than not?
         - [ ] [What Is Tail Recursion Why Is It So Bad?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
-        - [ ] [Tail Recursion (video)](https://www.youtube.com/watch?v=L1jjXGfxozc)
+        - [ ] [Tail Recursion (video)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)
 
 - ### Dynamic Programming
     - You probably won't see any dynamic programming problems in your interview, but it's worth being able to recognize a problem as being a candidate for dynamic programming.
@@ -1927,7 +1964,7 @@ Sit back and enjoy. "Netflix and skill" :P
 
 - [MIT 6.858 Computer Systems Security, Fall 2014](https://www.youtube.com/watch?v=GqmQg-cszw4&index=1&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
 
-- [Stanford: Programming Paradigms (27 videos)](https://www.youtube.com/view_play_list?p=9D558D49CA734A02)
+- [Stanford: Programming Paradigms (27 videos)](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
 
 - [Introduction to Cryptography by Christof Paar](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
     - [Course Website along with Slides and Problem Sets](http://www.crypto-textbook.com/)

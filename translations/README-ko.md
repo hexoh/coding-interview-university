@@ -1,13 +1,13 @@
 # 코딩 인터뷰 대학(Coding Interview University)
 
 > 나는 원래 이것을 소프트웨어 엔지니어가 되기 위한 짧은 연구 목록으로 만들었다.
-> 그러나 지금 당신이 볼수 있듯이 이 목록은 매우 커졌다. 이 목록을 숙지 한 후,
+> 그러나 지금 당신이 볼 수 있듯이 이 목록은 매우 커졌다. 이 목록을 숙지한 후,
 > [나는 아마존에 소프트웨어 엔지니어로 채용됐다](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
 > 당신은 아마 내가 한 것처럼 많이 공부할 필요는 없을 것이다. 어쨌든 당신이 필요로 하는 모든 것은 여기에 있다.
 >
 > 몇 달 동안 하루에 8-12 시간 정도 공부했습니다. 이것이 제 이야기입니다. [Google 인터뷰를 위해 8 개월 동안 풀 타임으로 공부 한 이유](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
 >
-> 여기에 나열된 목록들은 아마존, 페이스북, 구글, 마이크로소프트 같은 거대 기업을 포함한 거의 모든 소프트웨어 회사의 인터뷰를 준비하는데에 도움이 될것이다.
+> 여기에 나열된 목록들은 아마존, 페이스북, 구글, 마이크로소프트 같은 거대 기업을 포함한 거의 모든 소프트웨어 회사의 인터뷰를 준비하는 데에 도움이 될 것이다.
 >
 >
 > *행운을 빈다!*
@@ -46,15 +46,52 @@
 
 </details>
 
+<div align="center">
+	<hr />
+    <p>
+        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
+    </p>
+    <p>
+        <strong>Special thanks to:</strong>
+    </p>
+    <p>
+        <a href="https://oss.capital/">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
+            </div>
+            <div>
+                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
+            </div>
+        </a>
+    </p>
+    <br />
+    <p>
+        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
+            </div>
+            <div>
+                <p>
+                    <strong>Dev environments built for the cloud</strong>
+                </p>
+            </div>
+            <div>
+                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
+            </div>
+        </a>
+    </p>
+    <hr />
+</div>
+
 ## 코딩 인터뷰 대학이란?
 
 코딩 인터뷰 대학은 (컴퓨터공학 학위 없이 독학한) 웹 개발자에서 큰 회사의 소프트웨어 엔지니어가 되기 위한 나의 몇 달간의 공부 계획이다.
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
 
-이 글은 **신입 소프트웨어 엔지니어** 혹은 소프트웨어/웹 개발에서 (컴퓨터과학 지식이 필요한) 소프트웨어 엔지니어링으로 전환자고자 하는 사람들을 위한 글입니다. 만약 당신이 여러 해의 소프트웨어 엔지니어링 경력이 있다면, 더 어려운 인터뷰가 예상된다.
+이 글은 **신입 소프트웨어 엔지니어** 혹은 소프트웨어/웹 개발에서 (컴퓨터과학 지식이 필요한) 소프트웨어 엔지니어링으로 전환하고자 하는 사람들을 위한 글입니다. 만약 당신이 여러 해의 소프트웨어 엔지니어링 경력이 있다면, 더 어려운 인터뷰가 예상된다.
 
-만약 당신이 여러 해의 소프트웨어/웹 개발 경험을 가지고 있다면, 구글과 아마존, 페이스북 그리고 마이크로소프트과 같은 큰 규모의 소프트웨어 회사들은 소프트웨어 엔지니어링을 소프트웨어/웹 개발과 다르게 바라보고 있으며 컴퓨터과학 지식을 요구한다는 사실에 주목하도록 하자.
+만약 당신이 여러 해의 소프트웨어/웹 개발 경험을 가지고 있다면, 구글과 아마존, 페이스북 그리고 마이크로소프트와 같은 큰 규모의 소프트웨어 회사들은 소프트웨어 엔지니어링을 소프트웨어/웹 개발과 다르게 바라보고 있으며 컴퓨터과학 지식을 요구한다는 사실에 주목하도록 하자.
 
 믿음직한 엔지니어 혹은 시스템 엔지니어가 되고 싶다면, 선택적인 주제 목록(네트워크, 보안 등)을 더 공부하도록 하자.
 
@@ -73,7 +110,7 @@
 - [시작하기 전에](#시작하기-전에)
 - [다루지 않을 것](#다루지-않을-것)
 - [먼저 알아야 할 지식](#먼저-알아야-할-지식)
-- [하루 하루의 계획](#하루-하루의-계획)
+- [하루하루의 계획](#하루-하루의-계획)
 - [알고리즘 복잡도 / Big-O / 점근적 분석](#알고리즘-복잡도--big-o--점근적-분석)
 - [자료구조](#자료구조)
     - [배열](#배열)
@@ -180,13 +217,13 @@
 
 ## 이걸 왜 써야하죠?
 
-내가 이 프로젝트를 시작했을 때, 나는 힙이나 스택, 시간복잡도, 트리, 그래프 순회 등에 대하여 전혀 아는 바가 없었다.
+내가 이 프로젝트를 시작했을 때, 나는 힙이나 스택, 시간 복잡도, 트리, 그래프 순회 등에 대하여 전혀 아는 바가 없었다.
 만약 내가 정렬 알고리즘을 코딩해야 했다면, 나는 그리 잘하지 못했을 것이다.
 모든 사용했던 모든 자료 구조는 언어 안에서 구현되어 있던 것들이고, 나는 그것들이 보이지 않는 곳에서 어떻게 작동하고 있는지 몰랐다.
 나는 실행 중인 프로세스가 메모리 초과 에러를 메시지를 보내지 않는 한 메모리를 관리할 필요가 없었고, 나는 해결책을 찾아야만 했다.
-나는 몇몇 다차원 배열이나 연관 배열을 사용해왔지만, 자료구조를 처음부터 구현해본 적은 없었다.
+나는 몇몇 다차원 배열이나 연관 배열을 사용해왔지만, 자료구조를 처음부터 구현해 본 적은 없었다.
 
-하지만 이 공부 계획을 진행하면서 나는 내가 고용될 것이라는 자신감을 갖게 되었다. 이 것은 내게 여러 달이 필요한 긴 계획이다.
+하지만 이 공부 계획을 진행하면서 나는 내가 고용될 것이라는 자신감을 갖게 되었다. 이것은 내게 여러 달이 필요한 긴 계획이다.
 만약 당신이 이 중 많은 내용에 익숙하다면 시간은 훨씬 덜 들 것이다.
 
 ## 어떻게 사용하면 되나요?
@@ -199,11 +236,11 @@
 
 **새 브랜치를 만들어서 중괄호에 x표를 넣는 식으로 항목을 체크하라: [x]**
 
-    브랜치를 포크하고 아래의 명령을 따라라
+    브랜치를 라하고 아래의 명령을 따라라
 
-포크 버튼을 눌러 Github https://github.com/jwasham/coding-interview-university 레포지토리를 포크하라. 
+포크 버튼을 눌러 Github https://github.com/jwasham/coding-interview-university 레포지토리를 포크 하라. 
 
-    로컬 레포지토리에 클론하라.
+    로컬 레포지토리에 클론 하라.
 
 `git clone git@github.com:<your_github_username>/coding-interview-university.git`
 
@@ -883,7 +920,7 @@ Skiena의 책(아래의 책 섹션 참조)과 인터뷰 책에서 더 많은 그
     - 재귀는 언제 사용해야 하는 지
     - 꼬리 재귀를 사용하는 게 그렇지 않은 것보다 얼마나 나은가요?
         - [ ] [꼬리 재귀가 무엇이고 왜 그게 좋지 않은지에 대하여](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
-        - [ ] [꼬리 재귀 (영상)](https://www.youtube.com/watch?v=L1jjXGfxozc)
+        - [ ] [꼬리 재귀 (영상)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)
 
 
 - ### Dynamic Programming
@@ -1925,7 +1962,7 @@ Challenge repos:
 
 - [MIT 6.858 Computer Systems Security, Fall 2014](https://www.youtube.com/watch?v=GqmQg-cszw4&index=1&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
 
-- [Stanford: Programming Paradigms (27 videos)](https://www.youtube.com/view_play_list?p=9D558D49CA734A02)
+- [Stanford: Programming Paradigms (27 videos)](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
 
 - [Introduction to Cryptography by Christof Paar](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
     - [Course Website along with Slides and Problem Sets](http://www.crypto-textbook.com/)
