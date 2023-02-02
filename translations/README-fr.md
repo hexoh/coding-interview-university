@@ -10,24 +10,6 @@ Traductions:
     <p>
         <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
     </p>
-    <p>
-        <strong>Special thanks to:</strong>
-    </p>
-    <p>
-        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
-            </div>
-            <div>
-                <p>
-                    <strong>Dev environments built for the cloud</strong>
-                </p>
-            </div>
-            <div>
-                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
-            </div>
-        </a>
-    </p>
     <hr />
 </div>
 
@@ -290,7 +272,6 @@ Parfois, les cours ne sont pas en session, alors vous devez attendre quelques mo
     - [ ] [Quatre étapes à Google, sans un diplôme](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
     - [ ] [Tableau blanc](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
     - [ ] [Comment Google pense à propos de l'embauche, gestion, et culture](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
-    - [ ] [Tableau blanc efficace lors des entretiens de codage](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
     - [ ] Réussis dans une entrevue de codage:
         - [ ] [Gayle L McDowell -  Réussi l'entretien de codage (vidéo)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
         - [ ] [Réussi l'entretien de codage avec auteur Author Gayle Laakmann McDowell (vidéo)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
@@ -1275,7 +1256,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 
 - [ ] Series of 2-3 minutes short subject videos (23 videos)
     - [Videos](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (18 videos):
+- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):
     - [Videos](https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ)
 
 ---

@@ -64,35 +64,6 @@ Traduzione in Italiano a Cura di [@volpoh](https://github.com/volpoh)
     <p>
         <a href="https://github.com/sponsors/jwasham"><strong>Diventa uno sponsor</strong> e supporta Coding Interview University!</a>
     </p>
-    <p>
-        <strong>Un ringraziamento speciale a:</strong>
-    </p>
-    <p>
-        <a href="https://oss.capital/">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
-            </div>
-            <div>
-                <sup><strong>Fondata nel 2018, OSS Capital è la prima e l'unica piattaforma di investimenti incentrata <br>esclusivamente nel supportare i fondatori delle startup COSS (commercial open source).</strong></sup>
-            </div>
-        </a>
-    </p>
-    <br />
-    <p>
-        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
-            </div>
-            <div>
-                <p>
-                    <strong>Ambiente di Sviluppo costruito per il cloud</strong>
-                </p>
-            </div>
-            <div>
-                <sup>Inizialmente integrato con GitLab, GitHub e Bitbucket, Gitpod prebuilds automaticamente e continuamente ambienti di sviluppo per tutte le tue branches. Grazie a ciò, i membri del proprio team possono sviluppare in nuovissimi ambienti di sviluppo per qualsiasi task - che sia l'aggiunta di una nuova feature, il fixaggio di un bug o la revisione del codice.</sup>
-            </div>
-        </a>
-    </p>
     <hr />
 </div>
 
@@ -1217,7 +1188,7 @@ I grafi possono essere usati per rappresentare molti problemi in informatica, pe
 
 - [ ] Series of 2-3 minutes short subject video (23 video)
     - [video](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] Series of 2-5 minutes short subject video - Michael Sambol (18 video):
+- [ ] Series of 2-5 minutes short subject video - Michael Sambol (38 video):
     - [video](https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ)
 - [ ] [Sedgewick video - Algorithms I](https://www.coursera.org/learn/algorithms-part1)
 - [ ] [Sedgewick video - Algorithms II](https://www.coursera.org/learn/algorithms-part2)

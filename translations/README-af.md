@@ -59,24 +59,6 @@
     <p>
         <a href="https://github.com/sponsors/jwasham"><strong>Word 'n bydraër</strong> en borg Kodering Onderhoud Universiteit!</a>
     </p>
-    <p>
-        <strong>Spesiale dank aan:</strong>
-    </p>
-    <p>
-        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
-            </div>
-            <div>
-                <p>
-                    <strong>Dev omgewings gebou vir die wolk</strong>
-                </p>
-            </div>
-            <div>
-                <sup>Inheems geïntegreer met GitLab, GitHub, en Bitbucket, bou Gitpod outomaties en aanhoudend dev omgewings vir al jou takke. As gevolg kan span lede onmiddellik begin kodeer met vars dev omgewings vir elke nuwe taak - maak nie saak of jy 'n nuwe kenmerk bou, 'n fout wil reg maak, of werk aan 'n kode resensie nie.</sup>
-            </div>
-        </a>
-    </p>
     <hr />
 </div>
 
@@ -1199,7 +1181,7 @@ Grafieke kan gebruik word om baie problmeme in rekenaar wetenskap te verteenwoor
 
 - [ ] Reeks van 2-3 minute kort onderwerp videos (23 videos)
     - [Videos](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] Reeks van 2-5 minute kort onderwerp videos - Michael Sambol (18 videos):
+- [ ] Reeks van 2-5 minute kort onderwerp videos - Michael Sambol (38 videos):
     - [Videos](https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ)
 - [ ] [Sedgewick Videos - Algorithms I](https://www.coursera.org/learn/algorithms-part1)
 - [ ] [Sedgewick Videos - Algorithms II](https://www.coursera.org/learn/algorithms-part2)

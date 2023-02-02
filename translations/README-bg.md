@@ -52,24 +52,6 @@
     <p>
         <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
     </p>
-    <p>
-        <strong>Special thanks to:</strong>
-    </p>
-    <p>
-        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
-            </div>
-            <div>
-                <p>
-                    <strong>Dev environments built for the cloud</strong>
-                </p>
-            </div>
-            <div>
-                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
-            </div>
-        </a>
-    </p>
     <hr />
 </div>
 
@@ -1152,7 +1134,7 @@
 
 -   [ ] Серия от 2-3 минутни кратки клипове по различни теми (23 клипа)
     -   [Клипове](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
--   [ ] Серия от 2-5 минутни кратки клипове по различни теми - Michael Sambol (18 клипа):
+-   [ ] Серия от 2-5 минутни кратки клипове по различни теми - Michael Sambol (38 клипа):
     -   [Клипове](https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ)
 -   [ ] [Sedgewick Videos - Алгоритми I](https://www.coursera.org/learn/algorithms-part1)
 -   [ ] [Sedgewick Videos - Алгоритми II](https://www.coursera.org/learn/algorithms-part2)

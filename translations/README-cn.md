@@ -13,24 +13,6 @@
     <p>
         <a href="https://github.com/sponsors/jwasham"><strong>成为赞助商</strong> 并支持编程大学！</a>
     </p>
-    <p>
-        <strong>特别感谢:</strong>
-    </p>
-    <p>
-        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
-            </div>
-            <div>
-                <p>
-                    <strong>为云构建的开发环境</strong>
-                </p>
-            </div>
-            <div>
-                <sup>Gitpod、GitLab、GitHub 和 Bitbucket 原生集合，自动且持续地为你的所有分支预构建开发环境。因此，团队成员可以立即开始为每项新任务使用全新的开发环境进行编码 - 无论您是在构建新功能、想要修复错误还是进行代码审查。</sup>
-            </div>
-        </a>
-    </p>
     <hr />
 </div>
 
@@ -1190,7 +1172,7 @@
 
 - [ ] 2-3分钟的简短主题视频系列（23个视频）
     - [视频](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] 2-5分钟的简短主题视频系列──Michael Sambol（18个视频）：
+- [ ] 2-5分钟的简短主题视频系列──Michael Sambol (38个视频）：
     - [视频](https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ)
 - [ ] [Sedgewick 视频 ── 算法I](https://www.coursera.org/learn/algorithms-part1)
 - [ ] [Sedgewick 视频 ── 算法II](https://www.coursera.org/learn/algorithms-part2)

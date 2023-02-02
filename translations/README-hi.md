@@ -61,28 +61,10 @@
         <a href="https://github.com/sponsors/jwasham"><strong>प्रायोजक बनें</strong> 
 और कोडिंग साक्षात्कार विश्वविद्यालय का समर्थन करें!</a>
     </p>
-    <p>
-        <strong>विशेष धन्यवाद:</strong>
-    </p>
-    <p>
-        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
-            </div>
-            <div>
-                <p>
-                    <strong>क्लाउड के लिए बनाया गया देव वातावरण</strong>
-                </p>
-            </div>
-            <div>
-                <sup>GitLab, GitHub, और Bitbucket के साथ मूल रूप से एकीकृत, Gitpod स्वचालित रूप से और आपकी सभी शाखाओं के लिए लगातार देव वातावरण का निर्माण करता है। परिणामस्वरूप टीम के सदस्य प्रत्येक नए कार्य के लिए तुरंत नए देव वातावरण के साथ कोडिंग शुरू कर सकते हैं - चाहे आप कोई नई सुविधा बना रहे हों, बग को ठीक करना चाहते हों, या कोड समीक्षा पर काम करना चाहते हों।</sup>
-            </div>
-        </a>
-    </p>
     <hr />
 </div>
 
-## What is it?
+## यह क्या है?
 
 ![
 व्हाइटबोर्ड पर कोडिंग - एचबीओ की सिलिकॉन वैली से](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
@@ -90,7 +72,7 @@
 
 एक बड़ी कंपनी के लिए सॉफ्टवेयर इंजीनियर बनने के लिए यह मेरी बहु-महीने की अध्ययन योजना है। 
 
-**Required:** 
+**आवश्यक:** 
 
 * कोडिंग के साथ थोड़ा अनुभव (चर, लूप, तरीके/कार्य, आदि)
 * धैर्य
